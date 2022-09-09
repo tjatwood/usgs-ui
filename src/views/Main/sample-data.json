@@ -1,0 +1,1528 @@
+[
+    {
+        "siteCode": "0208706575",
+        "siteName": "BEAVERDAM CREEK AT DAM NEAR CREEDMOOR, NC",
+        "latitude": 36.0236111,
+        "longitude": -78.6891667,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "250.00"
+            },
+            {
+                "code": "62614",
+                "name": "Lake or reservoir water surface elevation above NGVD 1929, ft",
+                "description": "Lake or reservoir water surface elevation above NGVD 1929, feet",
+                "unit": "ft",
+                "value": "250.00"
+            },
+            {
+                "code": "62615",
+                "name": "Lake or reservoir water surface elevation above NAVD 1988, ft",
+                "description": "Lake or reservoir water surface elevation above NAVD 1988, feet",
+                "unit": "ft",
+                "value": "249.10"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087182",
+        "siteName": "FALLS LAKE ABOVE DAM NR FALLS, NC",
+        "latitude": 35.9411111,
+        "longitude": -78.5833333,
+        "siteTypeCode": "LK",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00010",
+                "name": "Temperature, water, &#176;C",
+                "description": "Temperature, water, degrees Celsius",
+                "unit": "deg C",
+                "value": "30.4"
+            },
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00062",
+                "name": "Elevation of reservoir water surface above datum, ft",
+                "description": "Elevation of reservoir water surface above datum, feet",
+                "unit": "ft",
+                "value": "250.03"
+            },
+            {
+                "code": "62614",
+                "name": "Lake or reservoir water surface elevation above NGVD 1929, ft",
+                "description": "Lake or reservoir water surface elevation above NGVD 1929, feet",
+                "unit": "ft",
+                "value": "250.03"
+            },
+            {
+                "code": "62615",
+                "name": "Lake or reservoir water surface elevation above NAVD 1988, ft",
+                "description": "Lake or reservoir water surface elevation above NAVD 1988, feet",
+                "unit": "ft",
+                "value": "249.13"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087183",
+        "siteName": "NEUSE RIVER NEAR FALLS, NC",
+        "latitude": 35.94,
+        "longitude": -78.5808333,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "176"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.40"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "199.80"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208721055",
+        "siteName": "PERRY CREEK AT SR2012 NEAR MILLBROOK, NC",
+        "latitude": 35.87515054,
+        "longitude": -78.5963913,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "3.80"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208721290",
+        "siteName": "PERRY CREEK TRIBUTARY AT NEUSE, NC",
+        "latitude": 35.8965394,
+        "longitude": -78.5791687,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "135"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208725600",
+        "siteName": "SYCAMORE CREEK NEAR LYNN CROSSROADS, NC",
+        "latitude": 35.90098177,
+        "longitude": -78.76528318,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "64.0"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208726005",
+        "siteName": "CRABTREE CR AT EBENEZER CHURCH RD NR RALEIGH, NC",
+        "latitude": 35.84527778,
+        "longitude": -78.7244444,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "10.8"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "3.41"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "227.31"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208726100",
+        "siteName": "RICHLANDS CREEK NEAR WESTOVER, NC",
+        "latitude": 35.80376225,
+        "longitude": -78.735005,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.31"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208726835",
+        "siteName": "HARE SNIPE TRIB NEAR LEESVILLE, NC",
+        "latitude": 35.89126059,
+        "longitude": -78.690004,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "4.50"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208726990",
+        "siteName": "HARE SNIPE CREEK BELOW LAKE LYNN AT RALEIGH, NC",
+        "latitude": 35.86876096,
+        "longitude": -78.6986154,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "3.30"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087275",
+        "siteName": "CRABTREE CREEK AT HWY 70 AT RALEIGH, NC",
+        "latitude": 35.83805556,
+        "longitude": -78.6741667,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "12.8"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "4.39"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "207.29"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208730025",
+        "siteName": "BIG BRANCH TRIB AT WINGATE DR AT RALEIGH, NC",
+        "latitude": 35.8440396,
+        "longitude": -78.6166695,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "6.80"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208731190",
+        "siteName": "CRABTREE CREEK AT ANDERSON DRIVE AT RALEIGH, NC",
+        "latitude": 35.8211111,
+        "longitude": -78.6341667,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "2.34"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "188.81"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087322",
+        "siteName": "CRABTREE CR AT OLD WAKE FOREST RD AT RALEIGH, NC",
+        "latitude": 35.8158333,
+        "longitude": -78.6261111,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.30"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "186.99"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087324",
+        "siteName": "CRABTREE CREEK AT US 1 AT RALEIGH, NC",
+        "latitude": 35.8111111,
+        "longitude": -78.6108333,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "32.8"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "0.14"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "182.50"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208732534",
+        "siteName": "PIGEON HOUSE CR AT CAMERON VILLAGE AT RALEIGH, NC",
+        "latitude": 35.7875,
+        "longitude": -78.6547222,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.38"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.53"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "305.97"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208732810",
+        "siteName": "MARSH CREEK AT SR2030 AT MILLBROOK, NC",
+        "latitude": 35.8537618,
+        "longitude": -78.6030582,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "8.40"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208732885",
+        "siteName": "MARSH CREEK NEAR NEW HOPE, NC",
+        "latitude": 35.81694444,
+        "longitude": -78.5930556,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "2.46"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "3.07"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "197.97"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087337",
+        "siteName": "WALNUT CREEK AT BUCK JONES ROAD AT RALEIGH, NC",
+        "latitude": 35.77295,
+        "longitude": -78.7369528,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.35"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "0.96"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "369.46"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087339",
+        "siteName": "LAKE JOHNSON ABOVE DAM AT RALEIGH, NC",
+        "latitude": 35.76270278,
+        "longitude": -78.7055778,
+        "siteTypeCode": "LK",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "62615",
+                "name": "Lake or reservoir water surface elevation above NAVD 1988, ft",
+                "description": "Lake or reservoir water surface elevation above NAVD 1988, feet",
+                "unit": "ft",
+                "value": "343.10"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208734210",
+        "siteName": "WALNUT CREEK AT TRAILWOOD DRIVE AT RALEIGH, NC",
+        "latitude": 35.76838889,
+        "longitude": -78.691,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "2.01"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "3.87"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "278.97"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208734220",
+        "siteName": "BUSHY BRANCH TRIB ON SCHAUB DR AT RALEIGH, NC",
+        "latitude": 35.784596,
+        "longitude": -78.7036156,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.72"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208734795",
+        "siteName": "WALNUT CREEK AT SOUTH WILMINGTON ST AT RALEIGH, NC",
+        "latitude": 35.75688889,
+        "longitude": -78.6406111,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "2.44"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "0.65"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "220.45"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208735012",
+        "siteName": "ROCKY BRANCH BELOW PULLEN ROAD AT RALEIGH, NC",
+        "latitude": 35.78,
+        "longitude": -78.66638889,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.75"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "4.82"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "313.43"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208735460",
+        "siteName": "WALNUT CREEK AT SOUTH STATE STREET AT RALEIGH, NC",
+        "latitude": 35.75788889,
+        "longitude": -78.6238333,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "2.08"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "211.08"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208735550",
+        "siteName": "WALNUT CREEK TRIB AT EVERS STREET IN RALEIGH, NC",
+        "latitude": 35.74709637,
+        "longitude": -78.6147254,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "1.20"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087358",
+        "siteName": "WALNUT CREEK AT ROSE LANE AT RALEIGH, NC",
+        "latitude": 35.76025,
+        "longitude": -78.6000806,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "4.41"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "197.61"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087359",
+        "siteName": "WALNUT CREEK AT SUNNYBROOK DRIVE NR RALEIGH, NC",
+        "latitude": 35.7583333,
+        "longitude": -78.5830556,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "16.6"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "2.48"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "184.72"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208739678",
+        "siteName": "NEUSE R TRIB AT NRWWTP (CENTRAL STE) NR AUBURN, NC",
+        "latitude": 35.7236111,
+        "longitude": -78.4927778,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.01"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208741400",
+        "siteName": "NEUSE R TRIB AT NRWWTP (EASTERN STE) NR AUBURN, NC",
+        "latitude": 35.71194444,
+        "longitude": -78.4866667,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.24"
+            }
+        ]
+    },
+    {
+        "siteCode": "02087580",
+        "siteName": "SWIFT CREEK NEAR APEX, NC",
+        "latitude": 35.71888889,
+        "longitude": -78.7522222,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            },
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.68"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.95"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "293.32"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208758850",
+        "siteName": "SWIFT CREEK NEAR MCCULLARS CROSSROADS, NC",
+        "latitude": 35.6936111,
+        "longitude": -78.6922222,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "13.9"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.84"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "252.24"
+            }
+        ]
+    },
+    {
+        "siteCode": "0208762750",
+        "siteName": "UNNAMED TRIB TO SWIFT CR NR YATES MILL POND, NC",
+        "latitude": 35.73194444,
+        "longitude": -78.6761111,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.51"
+            }
+        ]
+    },
+    {
+        "siteCode": "02088383",
+        "siteName": "LITTLE RIVER NEAR ZEBULON, NC",
+        "latitude": 35.82194444,
+        "longitude": -78.3522222,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "5.46"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "1.48"
+            },
+            {
+                "code": "63160",
+                "name": "Stream water level elevation above NAVD 1988, in ft",
+                "description": "Stream water level elevation above NAVD 1988, in feet",
+                "unit": "ft",
+                "value": "234.18"
+            }
+        ]
+    },
+    {
+        "siteCode": "0209782609",
+        "siteName": "WHITE OAK CR AT MOUTH NEAR GREEN LEVEL, NC",
+        "latitude": 35.76027778,
+        "longitude": -78.9202778,
+        "siteTypeCode": "ST",
+        "hydrologicUnitCode": "03030002",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00060",
+                "name": "Streamflow, ft&#179;/s",
+                "description": "Discharge, cubic feet per second",
+                "unit": "ft3/s",
+                "value": "0.02"
+            },
+            {
+                "code": "00065",
+                "name": "Gage height, ft",
+                "description": "Gage height, feet",
+                "unit": "ft",
+                "value": "2.34"
+            }
+        ]
+    },
+    {
+        "siteCode": "353509078404101",
+        "siteName": "WK-433 NC HWY 42 NEAR WILLOW SPRING, NC (REGOLITH)",
+        "latitude": 35.5858333,
+        "longitude": -78.6780556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "13.16"
+            }
+        ]
+    },
+    {
+        "siteCode": "353509078404102",
+        "siteName": "WK-434 NC HWY 42 NEAR WILLOW SPRING, NC (BEDROCK)",
+        "latitude": 35.5858333,
+        "longitude": -78.6780556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "33.34"
+            }
+        ]
+    },
+    {
+        "siteCode": "353833078493301",
+        "siteName": "WK-435 PARRISH WOMBLE PK HOLLY SPRINGS, NC BEDROCK",
+        "latitude": 35.6425,
+        "longitude": -78.8258333,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "26.12"
+            }
+        ]
+    },
+    {
+        "siteCode": "354144078460101",
+        "siteName": "WK-436 CROWDER PARK NR HOLLY SPRINGS NC (REGOLITH)",
+        "latitude": 35.69555556,
+        "longitude": -78.7669444,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "26.97"
+            }
+        ]
+    },
+    {
+        "siteCode": "354144078460102",
+        "siteName": "WK-437 CROWDER CO PK NR HOLLY SPRINGS, NC BEDROCK",
+        "latitude": 35.69555556,
+        "longitude": -78.7669444,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "34.44"
+            }
+        ]
+    },
+    {
+        "siteCode": "354315078300101",
+        "siteName": "WK-332 RALEIGH RS WC-2S NR RALEIGH, NC (REGOLITH)",
+        "latitude": 35.7208333,
+        "longitude": -78.5005556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "19.23"
+            }
+        ]
+    },
+    {
+        "siteCode": "354315078300103",
+        "siteName": "WK-334 RALEIGH RS WC-2D NR RALEIGH,NC(GRANITE BED)",
+        "latitude": 35.7208333,
+        "longitude": -78.5005556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "17.53"
+            }
+        ]
+    },
+    {
+        "siteCode": "354356078331845",
+        "siteName": "RAINGAGE AT FIRE STATION 26 NR RALEIGH, NC",
+        "latitude": 35.7321083,
+        "longitude": -78.5549722,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354359078403104",
+        "siteName": "WK-283 LAKE WHEELER RS MW-2D (BEDROCK WELL)",
+        "latitude": 35.73305556,
+        "longitude": -78.6755556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "31.39"
+            }
+        ]
+    },
+    {
+        "siteCode": "354404078403101",
+        "siteName": "WK-284 LAKE WHEELER RD RS MW-3S (REGOLITH)",
+        "latitude": 35.73444444,
+        "longitude": -78.6752778,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "25.70"
+            }
+        ]
+    },
+    {
+        "siteCode": "354525078382645",
+        "siteName": "RAINGAGE AT WALNUT CR S WILMINGTON ST AT RALEIGH",
+        "latitude": 35.75688889,
+        "longitude": -78.6406111,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354528078372645",
+        "siteName": "RAINGAGE AT WALNUT CR SOUTH STATE ST AT RALEIGH",
+        "latitude": 35.75788889,
+        "longitude": -78.6238333,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354546078422045",
+        "siteName": "RAINGAGE AT LAKE JOHNSON ABOVE DAM AT RALEIGH, NC",
+        "latitude": 35.76270278,
+        "longitude": -78.7055778,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354606078412845",
+        "siteName": "RAINGAGE AT WALNUT CR TRAILWOOD DRIVE AT RALEIGH",
+        "latitude": 35.76838889,
+        "longitude": -78.691,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354623078441345",
+        "siteName": "RAINGAGE AT WALNUT CR BUCK JONES RD AT RALEIGH, NC",
+        "latitude": 35.77295,
+        "longitude": -78.7369528,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "354649078400701",
+        "siteName": "WK-427 ROCKY BRANCH RS RB-1 AT RALEIGH NC REGOLITH",
+        "latitude": 35.78027778,
+        "longitude": -78.6686111,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "6.13"
+            }
+        ]
+    },
+    {
+        "siteCode": "354649078400702",
+        "siteName": "WK-428 ROCKY BRANCH RS RB-2 AT RALEIGH NC BEDROCK",
+        "latitude": 35.78027778,
+        "longitude": -78.6686111,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "6.56"
+            }
+        ]
+    },
+    {
+        "siteCode": "354748078315901",
+        "siteName": "WK-426 FARMWELL RD NEAR RALEIGH, NC (BEDROCK)",
+        "latitude": 35.79666667,
+        "longitude": -78.5330556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "28.77"
+            }
+        ]
+    },
+    {
+        "siteCode": "354818078234101",
+        "siteName": "WK-429 WENDELL MS NEAR WENDELL, NC (BEDROCK)",
+        "latitude": 35.805,
+        "longitude": -78.3947222,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "20.06"
+            }
+        ]
+    },
+    {
+        "siteCode": "355020078465645",
+        "siteName": "RAINGAGE AT LAKE CRABTREE CO. PARK NR MORRISVILLE",
+        "latitude": 35.8389861,
+        "longitude": -78.7822583,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "355201078362845",
+        "siteName": "RAINGAGE AT FIRE STATION 15 NR RALEIGH, NC",
+        "latitude": 35.8668333,
+        "longitude": -78.6077972,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "355339078405145",
+        "siteName": "RAINGAGE AT FIRE STATION 18 NR RALEIGH, NC",
+        "latitude": 35.89416667,
+        "longitude": -78.6808167,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "355348078433545",
+        "siteName": "RAINGAGE AT FIRE STATION 23 NR RALEIGH, NC",
+        "latitude": 35.89660278,
+        "longitude": -78.7264333,
+        "siteTypeCode": "AT",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "00045",
+                "name": "Precipitation, total, in",
+                "description": "Precipitation, total, inches",
+                "unit": "in",
+                "value": "0.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "355457078232701",
+        "siteName": "WK-432 PULLEY TOWN RD NR ROLESVILLE, NC (BEDROCK)",
+        "latitude": 35.9158333,
+        "longitude": -78.3908333,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "9.77"
+            }
+        ]
+    },
+    {
+        "siteCode": "355635078385101",
+        "siteName": "WK-368 BAY LEAF FS, RALEIGH, NC (BEDROCK)",
+        "latitude": 35.943,
+        "longitude": -78.684,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "142.23"
+            }
+        ]
+    },
+    {
+        "siteCode": "355657078342601",
+        "siteName": "WK-431 FOREST RIDGE PARK WAKE FOREST, NC (BEDROCK)",
+        "latitude": 35.94916667,
+        "longitude": -78.57388889,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "39.27"
+            }
+        ]
+    },
+    {
+        "siteCode": "355659078411401",
+        "siteName": "WK-375 NORWOOD OAKS, RALEIGH, NC (BEDROCK)",
+        "latitude": 35.94972778,
+        "longitude": -78.6871611,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "95.00"
+            }
+        ]
+    },
+    {
+        "siteCode": "360352078414401",
+        "siteName": "WK-430 NC HWY 50 NEAR NEW LIGHT, NC (BEDROCK)",
+        "latitude": 36.06444444,
+        "longitude": -78.6955556,
+        "siteTypeCode": "GW",
+        "hydrologicUnitCode": "03020201",
+        "stateCode": "37",
+        "countyCode": "37183",
+        "dataPoints": [
+            {
+                "code": "72019",
+                "name": "Depth to water level, ft below land surface",
+                "description": "Depth to water level, feet below land surface",
+                "unit": "ft",
+                "value": "29.05"
+            }
+        ]
+    }
+]
